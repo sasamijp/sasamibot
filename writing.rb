@@ -2,9 +2,7 @@
 
 require 'bimyou_segmenter'
 
-input = gets.gsub('。','')
-
-text=BimyouSegmenter.segment(input)
+text=BimyouSegmenter.segment(gets.to_s)
 p text
 p text.length
 text.push("endpoint")
@@ -17,14 +15,14 @@ inputs = []
 
 while true do
   if n == 0 then
-    inputs[counter] = "beginpoint #{text[n]} #{text[n+1]}"
-    n+=1
+    inputs[counter] = "beginpoint #{text[n]} #{text[n+1]} #{text[n+2]} #{text[n+3]}"
+    n+=3
   else
-    inputs[counter] = "#{text[n]} #{text[n+1]} #{text[n+2]}"
-    n+=1
+    inputs[counter] = "#{text[n]} #{text[n+1]} #{text[n+2]} #{text[n+3]} #{text[n+4]}"
+    n+=4
   end
   counter+=1
-  if n+3>=text.length+1 then
+  if n+1>=text.length+1 then
     break
   end
 end
