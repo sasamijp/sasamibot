@@ -1,0 +1,128 @@
+beginpoint 天皇 は 、 日本
+日本 国 の 象徴 で
+で あり 日本 国民 統合
+統合 の 象徴 で あつ
+あつ て 、 この 地位
+地位 は 、 主権 の
+の 存する 日本 国民 の
+の 総意 に 基く 。
+。 endpoint   
+beginpoint 皇位 は 、 世襲
+世襲 の もの で あつ
+あつ て 、 国会 の
+の 議決 し た 皇室
+皇室 典範 の 定める ところ
+ところ に より 、 これ
+これ を 継承 する 。
+。 endpoint   
+beginpoint 天皇 の 国事 に
+に 関する すべて の 行為
+行為 に は 、 内閣
+内閣 の 助言 と 承認
+承認 を 必要 と し
+し 、 内閣 が 、
+、 その 責任 を 負
+負 ふ 。 endpoint 
+beginpoint 天皇 は 、 この
+この 憲法 の 定める 国事
+国事 に 関する 行為 のみ
+のみ を 行 ひ 、
+、 国政 に 関する 権能
+権能 を 有し ない 。
+。 endpoint   
+beginpoint 天皇 は 、 法律
+法律 の 定める ところ に
+に より 、 その 国事
+国事 に 関する 行為 を
+を 委任 する こと が
+が できる 。 endpoint 
+beginpoint 皇室 典範 の 定める
+定める ところ に より 摂政
+摂政 を 置く とき は
+は 、 摂政 は 、
+、 天皇 の 名 で
+で その 国事 に 関する
+関する 行為 を 行 ふ
+ふ 。 この 場合 に
+に は 、 前条 第
+第 一 項 の 規定
+規定 を 準用 する 。
+。 endpoint   
+beginpoint 天皇 は 、 国会
+国会 の 指名 に 基い
+基い て 、 内閣 総理
+総理 大臣 を 任命 する
+する 。 endpoint  
+beginpoint 天皇 は 、 内閣
+内閣 の 指名 に 基い
+基い て 、 最高 裁判
+裁判 所 の 長 たる
+たる 裁判 官 を 任命
+任命 する 。 endpoint 
+beginpoint 天皇 は 、 内閣
+内閣 の 助言 と 承認
+承認 に より 、 国民
+国民 の ため に 、
+、 左 の 国事 に
+に 関する 行為 を 行
+行 ふ 。 endpoint 
+beginpoint 憲法 改正 、 法律
+法律 、 政令 及び 条約
+条約 を 公布 する こと
+こと 。 endpoint  
+beginpoint 国会 を 召集 する
+する こと 。 endpoint 
+beginpoint 衆議 院 を 解散
+解散 する こと 。 endpoint
+endpoint    
+beginpoint 国会 議員 の 総選
+総選 挙 の 施行 を
+を 公示 する こと 。
+。 endpoint   
+beginpoint 国務 大臣 及び 法律
+法律 の 定める その他 の
+の 官吏 の 任免 並び
+並び に 全権 委任 状及
+状及 び 大使及 び 公使
+公使 の 信任 状 を
+を 認証 する こと 。
+。 endpoint   
+beginpoint 大赦 、 特赦 、
+、 減刑 、 刑 の
+の 執行 の 免除 及び
+及び 復権 を 認証 する
+する こと 。 endpoint 
+beginpoint 栄典 を 授与 する
+する こと 。 endpoint 
+beginpoint 批准 書及 び 法律
+法律 の 定める その他 の
+の 外交 文書 を 認証
+認証 する こと 。 endpoint
+endpoint    
+beginpoint 外国 の 大使及 び
+び 公使 を 接受 する
+する こと 。 endpoint 
+beginpoint 儀式 を 行ふ こと
+こと 。 endpoint  
+beginpoint 日本 国民 は 、
+、 正義 と 秩序 を
+を 基調 と する 国際
+国際 平和 を 誠実 に
+に 希求 し endpoint 
+beginpoint 国権 の 発動 たる
+たる 戦争 と 、 武力
+武力 に よる 威嚇 又は
+又は 武力 の 行使 は
+は 、 国際 紛争 を
+を 解決 する 手段 として
+として は 、 永久 に
+に これ を 放棄 する
+する 。 endpoint  
+beginpoint 陸海 空軍 その他 の
+の 戦力 は 、 これ
+これ を 保持 し ない
+ない endpoint   
+beginpoint 国 の 交戦 権
+権 は 、 これ を
+を 認め ない 。 endpoint
+endpoint    

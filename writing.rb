@@ -16,22 +16,21 @@ inputs = []
 while true do
   if n == 0 then
     inputs[counter] = "beginpoint #{text[n]} #{text[n+1]} #{text[n+2]} #{text[n+3]}"
-    n+=3
+    n+=2
+  elsif n+5>=text.length+1 then
+    break
   else
     inputs[counter] = "#{text[n]} #{text[n+1]} #{text[n+2]} #{text[n+3]} #{text[n+4]}"
-    n+=4
+    n+=1
   end
   counter+=1
-  if n+1>=text.length+1 then
-    break
-  end
 end
 p inputs
 
 count = 0
 
 inputs.each do|input|
-  File.open("dictionary.txt","a") do |file|
+  File.open("new_dictionary.txt","a") do |file|
     file.write("#{input}\n")
   end
   count+=1
